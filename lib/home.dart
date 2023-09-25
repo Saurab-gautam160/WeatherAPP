@@ -2,7 +2,7 @@ import 'dart:ui';
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:wheather_app/Secreat.dart';
+
 import 'package:wheather_app/additionalIfo.dart';
 import 'package:wheather_app/whetherforcast.dart';
 import 'package:http/http.dart' as http;
